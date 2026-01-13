@@ -74,7 +74,7 @@
 
 Click the button below to deploy **YukkiMusic** instantly on Heroku:
 
-<a href="https://heroku.com/deploy?template=https://github.com/TheTeamVivek/YukkiMusic">
+<a href="https://heroku.com/deploy?template=https://github.com/VIP-saksham/trick">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
 </a>
 
